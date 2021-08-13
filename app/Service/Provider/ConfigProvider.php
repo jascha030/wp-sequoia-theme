@@ -1,6 +1,6 @@
 <?php
 
-namespace Jascha\SequoiaTheme\Service\Provider;
+namespace Jascha030\SequoiaTheme\Service\Provider;
 
 use Jascha030\SequoiaTheme\Config\ThemeConfigStore;
 use Pimple\Container;
