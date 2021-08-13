@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0a7b7e0949d481a6d84a95024b552678",
+    "content-hash": "d99b45bb72a4756058da6b8a3559b285",
     "packages": [
         {
             "name": "jascha030/config-lib",
