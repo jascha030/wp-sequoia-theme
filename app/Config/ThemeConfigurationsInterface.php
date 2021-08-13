@@ -1,6 +1,6 @@
 <?php
 
-namespace Jascha030\SideriusCoaching\Theme\Config;
+namespace Jascha030\SequoiaTheme\Config;
 
 interface ThemeConfigurationsInterface
 {
