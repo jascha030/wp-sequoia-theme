@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1628821825">
+  <project timestamp="1628821825">
+    <file name="/Users/jascha030/.development/www/localwp/sideriuscoaching/web/app/themes/wp-sequoia-theme/app/Config/ThemeConfigStore.php">
+      <class name="Jascha030\SequoiaTheme\Config\ThemeConfigStore" namespace="global">
+        <metrics complexity="6" methods="5" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="8" coveredstatements="7" elements="13" coveredelements="11"/>
+      </class>
+      <line num="15" type="method" name="getThemeSupports" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="17" type="stmt" count="1"/>
+      <line num="23" type="method" name="getFilterRemovals" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="25" type="stmt" count="1"/>
+      <line num="31" type="method" name="getConstants" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="33" type="stmt" count="1"/>
+      <line num="36" type="method" name="getComponentHooks" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="38" type="stmt" count="0"/>
+      <line num="41" type="method" name="conditionallyLoad" visibility="private" complexity="2" crap="2" count="3"/>
+      <line num="43" type="stmt" count="3"/>
+      <line num="44" type="stmt" count="1"/>
+      <line num="46" type="stmt" count="1"/>
+      <line num="49" type="stmt" count="3"/>
+      <metrics loc="51" ncloc="42" classes="1" methods="5" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="8" coveredstatements="7" elements="13" coveredelements="11"/>
+    </file>
+    <file name="/Users/jascha030/.development/www/localwp/sideriuscoaching/web/app/themes/wp-sequoia-theme/app/Config/ThemeConfigurationsInterface.php">
+      <metrics loc="22" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/Users/jascha030/.development/www/localwp/sideriuscoaching/web/app/themes/wp-sequoia-theme/app/Service/Provider/ConfigProvider.php">
+      <class name="Jascha030\SequoiaTheme\Service\Provider\ConfigProvider" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="0" elements="4" coveredelements="0"/>
+      </class>
+      <line num="14" type="method" name="register" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="16" type="stmt" count="0"/>
+      <line num="17" type="stmt" count="0"/>
+      <line num="19" type="stmt" count="0"/>
+      <metrics loc="20" ncloc="17" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="3" coveredstatements="0" elements="4" coveredelements="0"/>
+    </file>
+    <file name="/Users/jascha030/.development/www/localwp/sideriuscoaching/web/app/themes/wp-sequoia-theme/app/ThemeContainer.php">
+      <class name="Jascha030\SequoiaTheme\ThemeContainer" namespace="global">
+        <metrics complexity="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="3" coveredelements="0"/>
+      </class>
+      <line num="9" type="method" name="__construct" visibility="public" complexity="1" crap="2" count="0"/>
+      <line num="11" type="stmt" count="0"/>
+      <line num="12" type="stmt" count="0"/>
+      <metrics loc="13" ncloc="13" classes="1" methods="1" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="0" elements="3" coveredelements="0"/>
+    </file>
+    <metrics files="4" loc="106" ncloc="84" classes="3" methods="7" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="13" coveredstatements="7" elements="20" coveredelements="11"/>
+  </project>
+</coverage>
