@@ -1,6 +1,6 @@
 {
   "name": "jascha030/wp-sequoia-theme",
-  "description": "Template repo for WordPress theme using: jascha030/wp-sequoia, jascha030/wp-plugin-lib, Webpack, PostCSS and Tailwind.",
+  "description": "Template repo for WordPress theme using: jascha030/wp-sequoia, jascha030/wp-plugin-lib, jascha030/config-lib, Webpack, PostCSS and Tailwind.",
   "authors": [
     {
       "name": "Jascha030",
@@ -21,7 +21,8 @@
   },
   "require": {
     "php": "^7.4||^8.0",
-    "jascha030/wp-plugin-lib": "^1.3"
+    "jascha030/wp-plugin-lib": "^1.3",
+    "jascha030/config-lib": "^1"
   },
   "require-dev": {
     "friendsofphp/php-cs-fixer": "^3.0",
