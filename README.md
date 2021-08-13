@@ -1,4 +1,4 @@
-# Composer project template
+# WordPress Sequoia (OOP) Theme
 
 Template repo for WordPress theme using: `jascha030/wp-sequoia`, `jascha030/wp-plugin-lib`, `jascha030/config-lib`, Webpack, PostCSS and Tailwind.
 
