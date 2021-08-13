@@ -14,7 +14,7 @@ add_filter('wp_sq_theme_directory', static fn (): string => __DIR__, 10);
 /*
  * Requires the composer autoloader.
  */
-// require_once __DIR__.'/includes/bootstrap.php';
+require_once __DIR__.'/includes/bootstrap.php';
 
 /*
  * Hook: WP_SQ_load_theme
