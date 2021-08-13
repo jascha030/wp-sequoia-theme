@@ -1,0 +1,23 @@
+{
+  "name": "wp-sequoia-theme",
+  "version": "1.0.0",
+  "description": "Template repo for WordPress theme using: `jascha030/wp-sequoia`, `jascha030/wp-plugin-lib`, `jascha030/config-lib`, Webpack, PostCSS and Tailwind.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jascha030/wp-sequoia-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jascha030/wp-sequoia-theme/issues"
+  },
+  "homepage": "https://github.com/jascha030/wp-sequoia-theme#readme"
+}
