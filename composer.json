@@ -1,17 +1,27 @@
 {
     "name": "jascha030/wp-sequoia-theme",
     "description": "Template repo for WordPress theme using: jascha030/wp-sequoia, jascha030/wp-plugin-lib, Webpack, PostCSS and Tailwind.",
-    "require-dev": {
-        "friendsofphp/php-cs-fixer": "^3.0",
-        "phpunit/phpunit": "^9.5"
-    },
-    "license": "MIT",
     "authors": [
         {
             "name": "Jascha030",
             "email": "contact@jaschavanaalst.nl"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "stable",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Jascha030\\SequoiaTheme\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Jascha030\\SequoiaTheme\\Tests": "tests/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.0",
+        "phpunit/phpunit": "^9.5"
+    }
 }
